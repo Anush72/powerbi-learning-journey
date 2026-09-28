@@ -8,6 +8,7 @@ I learn by practicing with datasets and building small projects to improve my da
 Things I have Learned
 1) Visualization Using PowerBI
 2) Cleaning Data Using Power Query
+3) Relationship in power query (how relation work and how we can use it)
 
 ## Tools
 
