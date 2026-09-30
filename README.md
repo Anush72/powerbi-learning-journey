@@ -9,6 +9,11 @@ Things I have Learned
 1) Visualization Using PowerBI
 2) Cleaning Data Using Power Query
 3) Relationship in power query (how relation work and how we can use it)
+4) Working with DAX
+   a) Date Function
+   b) Sum and SUMX differences
+   c) Normal Mathematical
+   d) IF statement
 
 ## Tools
 
