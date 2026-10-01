@@ -20,6 +20,11 @@ Things I have Learned
 6) Groups and Bins
    a) We can create groups of categorical values by creating groups from table view. It is like if condition and we can rename the name.
    b) We can create bins of numerical values by creating groups. It's easy to use it.
+7) Conditional Formatting
+   We can put different condition based on what we need. We can use data bars, colors, icons and so on.
+   Conditional Formatting is good when you look for certain thing like put red in negative values and green in positive values.
+   It is same like excel conditional formatting.
+   It makes pretty easy to look at data and tell what are the things there based on condition.
 
 ## Tools
 
