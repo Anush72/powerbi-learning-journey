@@ -14,6 +14,12 @@ Things I have Learned
    b) Sum and SUMX differences
    c) Normal Mathematical
    d) IF statement
+5) Drill Down
+   a) we can go down to low level like month to day which is drill down.
+   b) We can go up to high level like day to month which is drill up.
+6) Groups and Bins
+   a) We can create groups of categorical values by creating groups from table view. It is like if condition and we can rename the name.
+   b) We can create bins of numerical values by creating groups. It's easy to use it.
 
 ## Tools
 
