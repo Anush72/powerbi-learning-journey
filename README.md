@@ -25,6 +25,10 @@ Things I have Learned
    Conditional Formatting is good when you look for certain thing like put red in negative values and green in positive values.
    It is same like excel conditional formatting.
    It makes pretty easy to look at data and tell what are the things there based on condition.
+8) Visualization
+   There are different types of visual charts based on what we need we can put chart.
+   Some of examples are as follows bar char, column chart, stacked column chart and so on.
+   
 
 ## Tools
 
