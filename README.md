@@ -28,6 +28,11 @@ Things I have Learned
 8) Visualization
    There are different types of visual charts based on what we need we can put chart.
    Some of examples are as follows bar char, column chart, stacked column chart and so on.
+
+Project Using Power BI
+In this I am going to use Power BI on doing the projects to learn more
+how we can use power bi for doing projects from importing the data, cleaning data, 
+transforming and making dashboards for finding trends and patterns.
    
 
 ## Tools
