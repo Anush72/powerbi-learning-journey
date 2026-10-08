@@ -33,6 +33,8 @@ Project Using Power BI
 In this I am going to use Power BI on doing the projects to learn more
 how we can use power bi for doing projects from importing the data, cleaning data, 
 transforming and making dashboards for finding trends and patterns.
+- First, Importing the data into power query
+- Cleaning the data in power query editor in power bi.
    
 
 ## Tools
