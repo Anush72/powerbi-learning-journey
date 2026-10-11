@@ -35,7 +35,10 @@ how we can use power bi for doing projects from importing the data, cleaning dat
 transforming and making dashboards for finding trends and patterns.
 - First, Importing the data into power query
 - Cleaning the data in power query editor in power bi.
-   
+- Close and apply and load to power bi dahsboard
+-  Picking Cards for one column summarization
+-  Putting stack column chart for job title and average salary
+-  putting stack bar chart for favorite programming language and profession.
 
 ## Tools
 
